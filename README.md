@@ -1,2 +1,2 @@
 # Minimalist-Stopwatch
-A very minimalistic stopwatch
+A very minimalistic stopwatch made using Unity
